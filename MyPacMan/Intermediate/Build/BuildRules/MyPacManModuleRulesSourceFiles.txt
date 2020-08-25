@@ -1,0 +1,3 @@
+F:\WorkSpace\Test\Source\MyPacMan\MyPacMan.Build.cs
+F:\WorkSpace\Test\Source\MyPacMan.Target.cs
+F:\WorkSpace\Test\Source\MyPacManEditor.Target.cs
